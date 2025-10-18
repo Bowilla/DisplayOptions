@@ -24,4 +24,4 @@ Click `Apply` button when finished.
 ## Install
 This mod is used with [MelonLoader](https://github.com/LavaGang/MelonLoader).\
 Mod dependency: [BBModMenu](https://github.com/MiaouZart/BBModMenu)\
-You may also get this on Thunderstore.
+You may also get this on [Thunderstore](https://thunderstore.io/c/beton-brutal/p/Beton_Bros/DisplayOptions/).
